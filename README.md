@@ -11,7 +11,7 @@ Bot Area51 adalah bot resmi dari Ezcorp yang didesain untuk memberikan berbagai 
 ### Fitur Permainan
 
 1. **Domino QQ**
-   ![Domino QQ](https://via.placeholder.com/200x100.png?text=Domino+QQ)
+   ![Domino QQ](https://cdn.discordapp.com/attachments/1242471419494006834/1266407281252237382/Screenshot_20240726-215001.jpg?ex=66a50930&is=66a3b7b0&hm=5f612da61d2411c2aa9eff1b9875e17d6f7ee6524098f199df594f17f980674a&)
    - Nikmati permainan domino tradisional dengan bot kami.
 
 2. **Blackjack**
