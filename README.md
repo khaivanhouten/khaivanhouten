@@ -1,6 +1,6 @@
 ---
 
-# Area51 Bot Discord Ezcorp Official
+# Bot Discord Ezcorp Official
 
 ![Area51 Banner](https://via.placeholder.com/800x200.png?text=Area51+Bot+Discord+Ezcorp+Official)
 
@@ -35,7 +35,7 @@ Bot Area51 adalah bot resmi dari Ezcorp yang didesain untuk memberikan berbagai 
    - Tantang teman Anda untuk menebak pikiran satu sama lain.
 
 7. **Hunger Games**
-   ![Hunger Games](https://via.placeholder.com/200x100.png?text=Hunger+Games)
+   ![Hunger Games]([https://via.placeholder.com/200x100.png?text=Hunger+Games](https://cdn.discordapp.com/attachments/1242471419494006834/1266407281252237382/Screenshot_20240726-215001.jpg?ex=66a50930&is=66a3b7b0&hm=5f612da61d2411c2aa9eff1b9875e17d6f7ee6524098f199df594f17f980674a&))
    - Siapkan strategi dan bertahan hidup di medan perang virtual.
 
 ### Fitur Kecerdasan Buatan
