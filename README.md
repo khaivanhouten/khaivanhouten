@@ -24,7 +24,7 @@
 
 ---
 
-Hai! Nama saya Khaivanhouten, seorang developer bot Discord dengan username Discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya buat
+Gua khai, programmer abal-abal yang tidak seberapa jago dalam dunia koding yang hanya bisa copy paste kode milik orang lain dengan username discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya buat
 
 ## Bot EZCorp Official
 
@@ -72,8 +72,8 @@ gass gabung server [EZCorp](https://discord.gg/ezcorp).
 
 ## Kontak
 
-Jika tertarik untuk berkolaborasi atau memiliki pertanyaan, Anda dapat menghubungi saya di Discord (`khaivanhoutenn#0000`) atau langsung bergabung dalam server kami.
+jika mencari jasa buat bot atau macro owo, botting, atau ada projek ingin koleb. boleh menghubungi saya di Discord (`khaivanhoutenn#0000`).
 
 ---
 
-Terima kasih telah berkunjung kesini! Jangan lupa memberikan bintang ⭐ pada repository saya. Happy coding! 🚀
+Terima kasih telah berkunjung kesini! Jangan lupa memberikan bintang ⭐ pada repository saya!. Happy coding! 🚀
