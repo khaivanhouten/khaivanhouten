@@ -42,8 +42,8 @@
 ---
 
 Gua khai, programmer abal-abal yang tidak seberapa jago dalam dunia koding yang hanya bisa copy paste kode milik orang lain. 
-username Discord saya adalah `khaivanhoutenn#0000`.
-Cari saya di [EZCorp](https://discord.gg/ezcorp). 
+username Discord saya adalah **`khaivanhoutenn#0000`**.
+Cari saya di server [EZCORP](https://discord.gg/ezcorp). 
 
 Berikut ini adalah beberapa proyek bot yang telah saya buat
 
