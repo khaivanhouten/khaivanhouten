@@ -12,7 +12,7 @@
 
 ---
 
-## Technologies
+## MY FAV
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,13 +26,14 @@
 
 Gua khai, programmer abal-abal yang tidak seberapa jago dalam dunia koding yang hanya bisa copy paste kode milik orang lain dengan username discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya buat
 
-## Bot EZCorp Official
+## BOT EZCORP OFFICIAL
 
 [![EZCorp Official](https://cdn.discordapp.com/attachments/1237248140126457977/1268780535644164227/Screenshot_20240802-110044.jpg?ex=66adab74&is=66ac59f4&hm=e82c86ce2b4667ea788252c731c9c5f18250ccd200aa99eb8c84f1f885408b0b&)](https://discord.gg/ezcorp)
 
 Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
 
-### Fitur
+### FITUR DARI BOT EZCORP OFFICIAL
+
 - **Giveaway**:
   - Giveaway Flash
   - Giveaway Split Steal
@@ -52,13 +53,14 @@ Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai be
  
 - **Chat Ai versi ezcorp**
   - CHAT BOT AI support (ChatGPT 4, llama 3.1 405b, gemini)
+  
   -  IMAGE GENERATOR support (DALL-E 3)
 
 - **Moderator**:
   - Kick / Ban
   - Dan masih banyak lagi!
 
-## Bot Arace
+## BOT ARACE
 
 [![Arace](https://cdn.discordapp.com/attachments/1237248140126457977/1268783460189737063/Screenshot_20240802-111104.jpg?ex=66adae2d&is=66ac5cad&hm=d5fbf8793245d719b5c6a232dd69e19b9acb8b0ae669b62cc29aa483c8eeb356&)](https://discord.gg/ezcorp)
 
