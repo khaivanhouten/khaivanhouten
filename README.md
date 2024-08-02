@@ -2,17 +2,32 @@
 
 ![Developer Badge](https://img.shields.io/badge/developer-discord-green)
 
+## Languages
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
 ![Python](https://img.shields.io/badge/Code-Python-blue)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
-![React](https://img.shields.io/badge/Code-React-blue)
-![Laravel](https://img.shields.io/badge/Code-Laravel-blue)
 ![HTML](https://img.shields.io/badge/Code-HTML-blue)
 ![PHP](https://img.shields.io/badge/Code-PHP-blue)
+![Java](https://img.shields.io/badge/Code-Java-blue)
+![C++](https://img.shields.io/badge/Code-C++-blue)
+![Ruby](https://img.shields.io/badge/Code-Ruby-blue)
+
+## Frameworks & Libraries
+
+![React](https://img.shields.io/badge/Framework-React-blue)
+![Angular](https://img.shields.io/badge/Framework-Angular-red)
+![Vue.js](https://img.shields.io/badge/Framework-Vue.js-brightgreen)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-red)
+![Django](https://img.shields.io/badge/Framework-Django-green)
+![Spring](https://img.shields.io/badge/Framework-Spring-green)
+![Node.js](https://img.shields.io/badge/Framework-Node.js-brightgreen)
+![Express](https://img.shields.io/badge/Framework-Express-blue)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple)
 
 ---
 
-## MY FAV
+## My Favorites
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,8 +36,11 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
+
 
 Gua khai, programmer abal-abal yang tidak seberapa jago dalam dunia koding yang hanya bisa copy paste kode milik orang lain dengan username discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya buat
 
