@@ -98,6 +98,6 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 <a href="https://www.youtube.com/thegamer3514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the gamer3514" height="30" width="40" /></a>
 <a href="https://discord.gg/ezcorp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" /></a>
 khairilrudi1213@gmail.com <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaivanhouten&show_icons=true&locale=en&layout=compact&theme=radical" alt="thegamer3514" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="khaivanhouten" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaivanhouten&show_icons=true&locale=en&layout=compact&theme=radical" alt="khaivanhouten" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=khaivanhouten&show_icons=true&locale=en&theme=radical" alt="khaivanhouten" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khaivanhouten&" alt="khaivanhouten" /></p>
