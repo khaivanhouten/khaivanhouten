@@ -112,12 +112,8 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 
 <h3 align="left">🎯 Keahlian Utama Saya</h3>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-20%25-yellowgreen" alt="JavaScript-20%" />
-  <img src="https://img.shields.io/badge/TypeScript-60%25-blue" alt="TypeScript-60%" />
-  <img src="https://img.shields.io/badge/Python-15%25-brightgreen" alt="Python-15%" />
-  <img src="https://img.shields.io/badge/Other-5%25-lightgrey" alt="Other-5%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=radical&align=center&gap=10" alt="Tech Stack">
+  <img src="https://img.shields.io/badge/JavaScript-20%25-yellowgreen" alt="JavaScript-130%" />
+  <img src="https://img.shields.io/badge/TypeScript-60%25-blue" alt="TypeScript-95%" />
+  <img src="https://img.shields.io/badge/Python-15%25-brightgreen" alt="Python-90%" />
+  <img src="https://img.shields.io/badge/Other-5%25-lightgrey" alt="Other-70%" />
 </p>
