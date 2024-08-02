@@ -1,83 +1,57 @@
----
+# khaivanhouten
 
-# Bot Discord Ezcorp Official
+![Developer Badge](https://img.shields.io/badge/developer-discord-green)
 
-![Area51 Banner](https://via.placeholder.com/800x200.png?text=Area51+Bot+Discord+Ezcorp+Official)
+Hai! Nama saya Khaivanhouten, seorang developer bot Discord dengan username Discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya kembangkan:
 
-## Selamat Datang di Area51 Bot Discord
+## Bot EZCorp Official
 
-Bot Ezcorp Offical adalah bot resmi dari Ezcorp yang didesain untuk memberikan berbagai macam permainan seru dan utilitas bermanfaat bagi komunitas Discord Anda. Dari permainan klasik seperti domino dan blackjack hingga fitur giveaway yang menarik, Area51 hadir untuk meningkatkan pengalaman Discord Anda.
+[![EZCorp Official](https://cdn.discordapp.com/attachments/1237248140126457977/1268780535644164227/Screenshot_20240802-110044.jpg?ex=66adab74&is=66ac59f4&hm=e82c86ce2b4667ea788252c731c9c5f18250ccd200aa99eb8c84f1f885408b0b&)](https://discord.gg/ezcorp)
 
-### Fitur Permainan
+Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
 
-1. **Domino QQ**
-   ![Domino QQ](https://cdn.discordapp.com/attachments/1242471419494006834/1266409631454990408/Screenshot_20240726-215540.jpg?ex=66a50b60&is=66a3b9e0&hm=0a0899cd25898977a248eaa7798b4d8942e8952f819f824fa52e4d6488cda4e0&)
-   - Nikmati permainan domino tradisional dengan bot kami.
+### Fitur
+- **Giveaway**:
+  - Giveaway Flash
+  - Giveaway Split Steal
+  - Giveaway Acak
+  - Giveaway Bomb
 
-2. **Blackjack**
-   ![Blackjack](https://cdn.discordapp.com/attachments/1242471419494006834/1266409631698255882/Screenshot_20240726-215450.jpg?ex=66a50b60&is=66a3b9e0&hm=0c52355c66559c87e94201af3f04bfb2d673298719de304a6261e2a34e6d2b6d&)
-   - Menantang keberuntungan Anda di meja blackjack virtual.
+- **Mini Games**:
+  - Qiuqiu (main rame-rame)
+  - Blackjack (main rame-rame)
+  - Gaplek (main rame-rame)
+  - Ular Tangga (main rame-rame)
+  - Cerdas Cermat (main rame-rame)
+  - Cari Angka (main rame-rame)
+  - Hunger Games (main rame-rame)
+  - Sambung Kata (main rame-rame)
+  - Tebak Pikiran (solo)
+ 
+- **Chat Ai versi ezcorp**
+  - CHAT BOT AI support (ChatGPT 4, llama 3.1 405b, gemini)
+  -  IMAGE GENERATOR support (DALL-E 3)
 
-3. **Domino Gaplek**
-   ![Domino Gaplek](https://cdn.discordapp.com/attachments/1242471419494006834/1266409631207653540/Screenshot_20240726-215633.jpg?ex=66a50b60&is=66a3b9e0&hm=c7036f8bf67f84a56e553273f9f888ba0b31024a314ad87d1720bd09f96aa2b2&)
-   - Permainan domino klasik yang menyenangkan.
+- **Moderator**:
+  - Kick / Ban
+  - Dan masih banyak lagi!
 
-4. **Sambung Kata**
-   ![Sambung Kata](https://cdn.discordapp.com/attachments/1242471419494006834/1266409626010648760/Screenshot_20240726-215727.jpg?ex=66a50b5f&is=66a3b9df&hm=ba44d0eb88578270847e8c0d6b539c2d13f5be3a0c23470757a6cc2413e3816b&)
-   - Bergiliran menyambung kata untuk menguji kreativitas dan kecepatan berpikir.
+## Bot Arace
 
-5. **Balap Hewan**
-   ![Balap Hewan](https://cdn.discordapp.com/attachments/1242471419494006834/1266407281252237382/Screenshot_20240726-215001.jpg?ex=66a50930&is=66a3b7b0&hm=5f612da61d2411c2aa9eff1b9875e17d6f7ee6524098f199df594f17f980674a&)
-   - Taruhan pada hewan mana yang akan memenangkan balapan.
+[![Arace](https://cdn.discordapp.com/attachments/1237248140126457977/1268783460189737063/Screenshot_20240802-111104.jpg?ex=66adae2d&is=66ac5cad&hm=d5fbf8793245d719b5c6a232dd69e19b9acb8b0ae669b62cc29aa483c8eeb356&)](https://discord.gg/ezcorp)
 
-6. **Tebak Pikiran**
-   ![Tebak Pikiran](https://cdn.discordapp.com/attachments/1242471419494006834/1266410404612145272/Screenshot_20240726-220232.jpg?ex=66a50c19&is=66a3ba99&hm=3e927a9fad35d2c759bad2c4e3b9a2f4b4a44d566fd3272c45f14556ba97e697&)
-   - Tantang teman Anda untuk menebak pikiran satu sama lain.
+Bot ini khusus dikembangkan untuk permainan balapan hewan. Berikut ini contoh gambarnya:
 
-7. **Hunger Games**
-   ![Hunger Games](https://cdn.discordapp.com/attachments/1247895355983532083/1266410696208416931/Screenshot_20240726-220353.jpg?ex=66a50c5e&is=66a3bade&hm=7a134269b523ef2e34e9745439dc287c487ffa724175657c7087a480f5d24848&)
-   - Siapkan strategi dan bertahan hidup di medan perang virtual.
+![Racing Example](https://cdn.discordapp.com/attachments/1218586957425410112/1268783868614414397/Screenshot_20240802-111357.jpg?ex=66adae8f&is=66ac5d0f&hm=e855c6906d67b29855876f1ab9dc82de8db94884553f8c7a1f8a7e676294fb20&)
 
-### Fitur Kecerdasan Buatan
-1. **Chat AI (Setara ChatGPT 4 & DALL-E 3)**
-   ![Chat AI](https://cdn.discordapp.com/attachments/1242471419494006834/1266411578203443405/Screenshot_20240726-220723.jpg?ex=66a50d31&is=66a3bbb1&hm=2183e1cede0acbba8411c6db9b24ccd6fb3b460167ee2e2cdbccdc2dc1d9d757&)
-   - Layanan percakapan cerdas serta pembuatan gambar menggunakan AI.
+## Join Guild Server
 
-### Fitur Utilitas
+gass gabung server [EZCorp](https://discord.gg/ezcorp).
 
-1. **Giveaway**
-   ![Giveaway](https://via.placeholder.com/200x100.png?text=Giveaway)
-   - Adakan giveaway dengan mudah di server Anda.
+## Kontak dan Kolaborasi
 
-2. **Giveaway Flash**
-   ![Giveaway Flash](https://via.placeholder.com/200x100.png?text=Giveaway+Flash)
-   - Giveaway cepat yang penuh kejutan.
-
-3. **Giveaway Split Steal**
-   ![Giveaway Split Steal](https://via.placeholder.com/200x100.png?text=Giveaway+Split+Steal)
-   - Permainan giveaway yang mengadu keberanian dan kejujuran.
-
-4. **Lottery**
-   ![Lottery](https://via.placeholder.com/200x100.png?text=Lottery)
-   - Sistem lotere menarik untuk server Anda.
-
-5. **Dan Banyak Lagi…**
-   ![More](https://via.placeholder.com/200x100.png?text=Dan+Banyak+Lagi)
+Jika tertarik untuk berkolaborasi atau memiliki pertanyaan, Anda dapat menghubungi saya di Discord (`khaivanhoutenn#0000`) atau langsung bergabung dalam server kami.
 
 ---
 
-Hubungi Saya:
-
-- **Nama**: khaivanhouten
-- **Username Discord**: khaivanhouter#0000
-- **Email**: khairilrudiwibowo@gmail.com
-
----
-
-![Footer](https://via.placeholder.com/800x100.png?text=Ez+Corp+Official+2023)
-
----
-
-Cobalah Area51 Bot sekarang dan rasakan perbedaan dalam komunitas Discord Anda!
-
----
+Terima kasih telah mengunjungi halaman ini! Jangan lupa memberikan bintang ⭐ pada repository ini jika menurut Anda membantu. Happy coding! 🚀
