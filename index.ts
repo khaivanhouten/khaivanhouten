@@ -13,7 +13,7 @@ client.once('ready', () => {
 
 client.on('messageCreate', async message => {
     if (message.content === '!ping') {
-        const sent = await message.channel.send('Pinging...');
+        const sent = await message.channel.send('Ping.');
         sent.edit(`Pong! Latency is ${sent.createdTimestamp - message.createdTimestamp}ms.`);
     }
 });
