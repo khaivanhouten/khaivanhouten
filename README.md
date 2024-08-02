@@ -109,11 +109,3 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaivanhouten&theme=radical" alt="Khaivanhouten's GitHub streak" /></p>
 
 ---
-
-<h3 align="left">🎯 Keahlian Utama Saya</h3>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-20%25-yellowgreen" alt="JavaScript-130%" />
-  <img src="https://img.shields.io/badge/TypeScript-60%25-blue" alt="TypeScript-95%" />
-  <img src="https://img.shields.io/badge/Python-15%25-brightgreen" alt="Python-90%" />
-  <img src="https://img.shields.io/badge/Other-5%25-lightgrey" alt="Other-70%" />
-</p>
