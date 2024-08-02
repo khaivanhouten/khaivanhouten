@@ -41,7 +41,11 @@
 
 ---
 
-Gua khai, programmer abal-abal yang tidak seberapa jago dalam dunia koding yang hanya bisa copy paste kode milik orang lain dengan username Discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya buat
+Gua khai, programmer abal-abal yang tidak seberapa jago dalam dunia koding yang hanya bisa copy paste kode milik orang lain. 
+username Discord saya adalah `khaivanhoutenn#0000`.
+Cari saya di [EZCorp](https://discord.gg/ezcorp). 
+
+Berikut ini adalah beberapa proyek bot yang telah saya buat
 
 ## BOT EZCORP OFFICIAL
 
