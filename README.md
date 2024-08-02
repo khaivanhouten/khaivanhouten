@@ -93,10 +93,11 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 - Invite bot Arace [ARACE BOT](https://discord.com/oauth2/authorize?client_id=884708266398068736).
 - Gabung [EZCORP SERVER](https://discord.gg/ezcorp).
 
-## Kontak
-
-Jika mencari jasa buat bot atau macro owo, botting, atau ada proyek ingin kolaborasi, boleh menghubungi saya di Discord (`khaivanhoutenn#0000`).
-
----
-
-Terima kasih telah berkunjung ke sini! Jangan lupa memberikan bintang ⭐ pada repository saya. Happy coding! 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/thegamer3514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the gamer3514" height="30" width="40" /></a>
+<a href="https://discord.gg/3qvpkgWSbF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" /></a>
+gamer@sillydev.co.uk <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegamer3514&show_icons=true&locale=en&layout=compact&theme=radical" alt="thegamer3514" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thegamer3514&show_icons=true&locale=en&theme=radical" alt="thegamer3514" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thegamer3514&" alt="thegamer3514" /></p>
