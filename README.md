@@ -62,13 +62,14 @@ Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai be
 
 [![Arace](https://cdn.discordapp.com/attachments/1237248140126457977/1268783460189737063/Screenshot_20240802-111104.jpg?ex=66adae2d&is=66ac5cad&hm=d5fbf8793245d719b5c6a232dd69e19b9acb8b0ae669b62cc29aa483c8eeb356&)](https://discord.gg/ezcorp)
 
-Bot ini khusus dikembangkan untuk permainan balapan hewan. Berikut ini contoh gambarnya:
+Bot ini khusus saya buat untuk permainan balapan hewan.
 
 ![Racing Example](https://cdn.discordapp.com/attachments/1218586957425410112/1268783868614414397/Screenshot_20240802-111357.jpg?ex=66adae8f&is=66ac5d0f&hm=e855c6906d67b29855876f1ab9dc82de8db94884553f8c7a1f8a7e676294fb20&)
 
 ## Join Guild Server
+invite bot Arace [ARACE BOT](https://discord.com/oauth2/authorize?client_id=884708266398068736).
 
-gass gabung server [EZCorp](https://discord.gg/ezcorp).
+gass gabung [EZCORP SERVER](https://discord.gg/ezcorp).
 
 ## Kontak
 
