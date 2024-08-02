@@ -2,6 +2,28 @@
 
 ![Developer Badge](https://img.shields.io/badge/developer-discord-green)
 
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
+![React](https://img.shields.io/badge/Code-React-blue)
+![Laravel](https://img.shields.io/badge/Code-Laravel-blue)
+![HTML](https://img.shields.io/badge/Code-HTML-blue)
+![PHP](https://img.shields.io/badge/Code-PHP-blue)
+
+---
+
+## Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
 Hai! Nama saya Khaivanhouten, seorang developer bot Discord dengan username Discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya buat
 
 ## Bot EZCorp Official
