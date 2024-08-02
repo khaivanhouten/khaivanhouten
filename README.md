@@ -28,6 +28,9 @@ Gua khai, programmer abal-abal yang tidak seberapa jago dalam dunia koding yang 
 
 ## BOT EZCORP OFFICIAL
 
+![](https://img.shields.io/badge/Moves%20played-16758-blue)
+![](https://img.shields.io/badge/Completed%20games-821-brightgreen)
+![](https://img.shields.io/badge/Total%20players-1670-orange)
 [![EZCorp Official](https://cdn.discordapp.com/attachments/1237248140126457977/1268780535644164227/Screenshot_20240802-110044.jpg?ex=66adab74&is=66ac59f4&hm=e82c86ce2b4667ea788252c731c9c5f18250ccd200aa99eb8c84f1f885408b0b&)](https://discord.gg/ezcorp)
 
 Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
