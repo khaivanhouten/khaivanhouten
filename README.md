@@ -2,7 +2,7 @@
 
 ![Developer Badge](https://img.shields.io/badge/developer-discord-green)
 
-Hai! Nama saya Khaivanhouten, seorang developer bot Discord dengan username Discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya kembangkan:
+Hai! Nama saya Khaivanhouten, seorang developer bot Discord dengan username Discord `khaivanhoutenn#0000`. Saya adalah salah satu developer utama di server [EZCorp](https://discord.gg/ezcorp). Berikut ini adalah beberapa proyek bot yang telah saya buat
 
 ## Bot EZCorp Official
 
@@ -48,10 +48,10 @@ Bot ini khusus dikembangkan untuk permainan balapan hewan. Berikut ini contoh ga
 
 gass gabung server [EZCorp](https://discord.gg/ezcorp).
 
-## Kontak dan Kolaborasi
+## Kontak
 
 Jika tertarik untuk berkolaborasi atau memiliki pertanyaan, Anda dapat menghubungi saya di Discord (`khaivanhoutenn#0000`) atau langsung bergabung dalam server kami.
 
 ---
 
-Terima kasih telah mengunjungi halaman ini! Jangan lupa memberikan bintang ⭐ pada repository ini jika menurut Anda membantu. Happy coding! 🚀
+Terima kasih telah berkunjung kesini! Jangan lupa memberikan bintang ⭐ pada repository saya. Happy coding! 🚀
