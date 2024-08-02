@@ -121,5 +121,3 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 <p align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=radical&align=center&gap=10" alt="Tech Stack">
 </p>
-
----
