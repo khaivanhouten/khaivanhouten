@@ -96,9 +96,9 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 <h3 align="left">Kontak Saya:</h3>
 <p align="left">
   <a href="https://discord.gg/ezcorp" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" />vghhhhh
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" />khaivanhouten#0000
   </a>
-  <br>Email: <a href="mailto:khairilrudi1213@gmail.com">khairilrudi1213@gmail.com</a>
+  <br><a href="mailto:khairilrudi1213@gmail.com"></a>
 </p>
 
 ---
