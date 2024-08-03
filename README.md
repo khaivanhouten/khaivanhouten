@@ -89,12 +89,12 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 ![Racing Example](https://cdn.discordapp.com/attachments/1218586957425410112/1268783868614414397/Screenshot_20240802-111357.jpg?ex=66adae8f&is=66ac5d0f&hm=e855c6906d67b29855876f1ab9dc82de8db94884553f8c7a1f8a7e676294fb20&)
 
 ## Join Guild Server
-[![Discord](https://discordapp.com/api/guilds/117523346618318850/widget.png)]([https://discord.gg/0ehQwTK2RBjAxzEY](https://discord.gg/ezcorp))
 
 - Invite bot Arace [ARACE BOT](https://discord.com/oauth2/authorize?client_id=884708266398068736).
 - Gabung [EZCORP SERVER](https://discord.gg/ezcorp).
 
 <h3 align="left">Kontak Saya:</h3>
+[![Discord](https://discordapp.com/api/guilds/117523346618318850/widget.png)]([https://discord.gg/0ehQwTK2RBjAxzEY](https://discord.gg/ezcorp))
 <p align="left">
   <a href="https://discord.gg/ezcorp" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" />khaivanhouten#0000
