@@ -104,7 +104,7 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 ---
 
 <h3 align="left">📊 Statistik GitHub Saya</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaivanhouten&show_icons=true&locale=en&layout=compact&theme=radical" alt="Khaivanhouten's most used languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristopherBThai&show_icons=true&locale=en&layout=compact&theme=radical" alt="Khaivanhouten's most used languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaivanhouten&show_icons=true&locale=en&theme=radical" alt="Khaivanhouten's GitHub stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaivanhouten&theme=radical" alt="Khaivanhouten's GitHub streak" /></p>
 
