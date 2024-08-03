@@ -94,7 +94,7 @@ Bot ini khusus saya buat untuk permainan balapan hewan.
 - Gabung [EZCORP SERVER](https://discord.gg/ezcorp).
 
 <h3 align="left">Kontak Saya:</h3>
-[![Discord](https://discordapp.com/api/guilds/117523346618318850/widget.png)]([https://discord.gg/0ehQwTK2RBjAxzEY](https://discord.gg/ezcorp))
+
 <p align="left">
   <a href="https://discord.gg/ezcorp" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" />khaivanhouten#0000
