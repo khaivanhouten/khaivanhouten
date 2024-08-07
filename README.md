@@ -49,7 +49,7 @@ Berikut ini adalah beberapa proyek bot yang telah saya buat
 
 ## BOT EZCORP OFFICIAL
 
-![EZCorp Official](https://cdn.discordapp.com/attachments/1237248140126457977/1268780535644164227/Screenshot_20240802-110044.jpg?ex=66adab74&is=66ac59f4&hm=e82c86ce2b4667ea788252c731c9c5f18250ccd200aa99eb8c84f1f885408b0b&)
+![EZCorp Official](./src/aa.jpg)
 
 Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
 
