@@ -49,7 +49,7 @@ Berikut ini adalah beberapa proyek bot yang telah saya buat
 
 ## BOT EZCORP OFFICIAL
 
-![EZCorp Official](./src/aa.jpg)
+![EZCorp Official](./src/hel.jpg)
 
 Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
 
@@ -86,7 +86,7 @@ Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai be
 
 Bot ini khusus saya buat untuk permainan balapan hewan.
 
-![Racing Example](https://cdn.discordapp.com/attachments/1218586957425410112/1268783868614414397/Screenshot_20240802-111357.jpg?ex=66adae8f&is=66ac5d0f&hm=e855c6906d67b29855876f1ab9dc82de8db94884553f8c7a1f8a7e676294fb20&)
+![Racing Example](./src/aa.jpg)
 
 ## Join Guild Server
 
