@@ -1,112 +1,150 @@
-# khaivanhouten
+🌟 KHAIVANHOUTEN
+<div align="center">
+Typing SVG
 
-![Developer Badge](https://img.shields.io/badge/developer-discord-green)
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KHAIVANHOUTEN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/> </div>
+🎯 SYSTEM STATUS
+ascii
 
-## Languages
+Run
+Copy code
+╔══════════════════════════════════════════════════════════════╗
+║  🔥 DEVELOPER STATUS: ONLINE                                 ║
+║  💻 CURRENT PROJECT: EZCorp Bot Enhancement                  ║
+║  🎮 SPECIALTY: Discord Bot Development                       ║
+║  🌐 LOCATION: Digital Realm                                  ║
+╚══════════════════════════════════════════════════════════════╝
+<div align="center">
+Profile Views Discord Status
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/Code-PHP-blue?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Code-Java-blue?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/Code-C++-blue?style=flat&logo=cplusplus&logoColor=white)
-![Ruby](https://img.shields.io/badge/Code-Ruby-blue?style=flat&logo=ruby&logoColor=white)
+</div>
+⚡ TECH ARSENAL
+<div align="center">
+🔥 PRIMARY WEAPONS
+JavaScript Python TypeScript React
 
-## Frameworks & Libraries
+🛡️ SECONDARY ARSENAL
+PHP Laravel Vue.js Django
 
-![React](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Framework-Angular-red?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Framework-Vue.js-brightgreen?style=flat&logo=vue.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-red?style=flat&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Framework-Django-green?style=flat&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Framework-Spring-green?style=flat&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Framework-Node.js-brightgreen?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Framework-Express-blue?style=flat&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
+⚔️ ADDITIONAL TOOLS
+Java C++ Ruby Node.js
 
----
+</div>
+🚀 LEGENDARY PROJECTS
+<div align="center">
+🏆 EZCORP OFFICIAL BOT
+The Ultimate Discord Experience
 
-## My Favorites
+<img src="https://media.discordapp.net/attachments/1237248140126457977/1268783460189737063/Screenshot_20240802-111104.jpg" width="400" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 255, 65, 0.3);"/> </div>
+yaml
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+Run
+Copy code
+Project: EZCorp Official Bot
+Status: ✅ ACTIVE & DEPLOYED
+Features:
+  🎁 Advanced Giveaway System:
+    - Flash Giveaways
+    - Split & Steal Mechanics
+    - Random Distribution
+    - Bomb Giveaways
+  
+  🎮 Interactive Mini Games:
+    - Qiuqiu Multiplayer
+    - Blackjack Tournament
+    - Gaplek Championship
+    - Snake & Ladder Arena
+    - Quiz Competition
+    - Number Hunt
+    - Hunger Games Simulation
+    - Word Chain Challenge
+    - Mind Reader (Solo)
+  
+  🤖 AI Integration:
+    - ChatGPT 4.0 Support
+    - LLaMA 3.1 405b
+    - Gemini AI
+    - DALL-E 3 Image Generation
+  
+  🛡️ Moderation Suite:
+    - Advanced Kick/Ban System
+    - Auto-Moderation
+    - Custom Commands
+<div align="center">
+🏁 ARACE BOT
+High-Speed Racing Simulation
 
----
+<img src="./src/aa.jpg" width="500" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(255, 107, 107, 0.3);"/> </div>
+yaml
 
-Gua khai, programmer abal-abal yang tidak seberapa jago dalam dunia koding yang hanya bisa copy paste kode milik orang lain. 
-username Discord saya adalah **`khaivanhoutenn#0000`**.
-Cari saya di server [EZCORP](https://discord.gg/ezcorp). 
+Run
+Copy code
+Project: Arace Racing Bot
+Status: ✅ LIVE & RACING
+Features:
+  🐎 Animal Racing System
+  💰 Betting Mechanics
+  🏆 Tournament Mode
+  📊 Statistics Tracking
+  🎯 Real-time Racing Animation
+📊 SYSTEM ANALYTICS
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khaivanhouten&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaivanhouten&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41"/> </div> <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaivanhouten&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/> </div>
+🌐 NETWORK CONNECTIONS
+<div align="center">
+🎮 JOIN THE MATRIX
+Discord Server
 
-Berikut ini adalah beberapa proyek bot yang telah saya buat
+Invite Arace Bot
 
-## BOT EZCORP OFFICIAL
+📡 CONTACT PROTOCOLS
+bash
 
-![EZCorp Official](./src/hel.jpg)
+Run
+Copy code
+# Discord Handle
+khaivanhoutenn#0000
 
-Bot ini dikembangkan untuk mendukung server EZCorp dengan fitur-fitur sebagai berikut:
+# Email Gateway
+khairilrudi1213@gmail.com
 
-### FITUR DARI BOT EZCORP OFFICIAL
+# Primary Server
+discord.gg/ezcorp
+</div>
+💀 DEVELOPER MANIFESTO
+<div align="center">
+css
+14 lines
+Click to close
+.developer {
+name: "Khai Van Houten";
+...
+</div>
+🎯 ACHIEVEMENT UNLOCKED
+<div align="center">
+| 🏆 Achievement | 📊 Progress | 🎯 Status | |:---:|:---:|:---:| | Discord Bots Created | 2+ | ✅ COMPLETE | | Active Users Served | 1000+ | 🔥 GROWING | | Lines of Code Written | 50K+ | 📈 INCREASING | | Coffee Consumed | ∞ | ☕ UNLIMITED |
 
-- **Giveaway**:
-  - Giveaway Flash
-  - Giveaway Split Steal
-  - Giveaway Acak
-  - Giveaway Bomb
+</div>
+🔮 FUTURE PROTOCOLS
+<div align="center">
+yaml
 
-- **Mini Games**:
-  - Qiuqiu (main rame-rame)
-  - Blackjack (main rame-rame)
-  - Gaplek (main rame-rame)
-  - Ular Tangga (main rame-rame)
-  - Cerdas Cermat (main rame-rame)
-  - Cari Angka (main rame-rame)
-  - Hunger Games (main rame-rame)
-  - Sambung Kata (main rame-rame)
-  - Tebak Pikiran (solo)
+Run
+Copy code
+Roadmap_2024:
+  Q4:
+    - 🚀 EZCorp Bot v3.0 Release
+    - 🎮 New Mini-Game Integration
+    - 🤖 Advanced AI Features
+    - 🌐 Web Dashboard Launch
+  
+  Upcoming_Features:
+    - 💎 NFT Integration
+    - 🎵 Music Bot Module
+    - 📊 Advanced Analytics
+    - 🔐 Enhanced Security
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+💫 "In code we trust, in bugs we debug" 💫
+Made with ❤️ Powered by Coffee
 
-- **Chat Ai versi ezcorp**:
-  - CHAT BOT AI support (ChatGPT 4, LLaMA 3.1 405b, Gemini)
-  - IMAGE GENERATOR support (DALL-E 3)
-
-- **Moderator**:
-  - Kick / Ban
-  - Dan masih banyak lagi!
-
-## BOT ARACE
-
-![Arace](https://cdn.discordapp.com/attachments/1237248140126457977/1268783460189737063/Screenshot_20240802-111104.jpg?ex=66adae2d&is=66ac5cad&hm=d5fbf8793245d719b5c6a232dd69e19b9acb8b0ae669b62cc29aa483c8eeb356&)
-
-Bot ini khusus saya buat untuk permainan balapan hewan.
-
-![Racing Example](./src/aa.jpg)
-
-## Join Guild Server
-
-- Invite bot Arace [ARACE BOT](https://discord.com/oauth2/authorize?client_id=884708266398068736).
-- Gabung [EZCORP SERVER](https://discord.gg/ezcorp).
-
-<h3 align="left">Kontak Saya:</h3>
-
-<p align="left">
-  <a href="https://discord.gg/ezcorp" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" />khaivanhouten#0000
-  </a>
-  <br><a href="mailto:khairilrudi1213@gmail.com"></a>
-</p>
-
----
-
-<h3 align="left">📊 Statistik GitHub Saya</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaivanhouten&show_icons=true&locale=en&layout=compact&theme=radical" alt="Khaivanhouten's most used languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaivanhouten&show_icons=true&locale=en&theme=radical" alt="Khaivanhouten's GitHub stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaivanhouten&theme=radical" alt="Khaivanhouten's GitHub streak" /></p>
-
----
+</div>
